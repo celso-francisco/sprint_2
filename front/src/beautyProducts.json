@@ -1,0 +1,54 @@
+{
+    "beauty": [
+        {
+            "id": 1,
+            "title": "Carimbo Auto tintado Nykon 301",
+            "description": "Simplifique as suas tarefas com um Carimbo Automático. Todos os pormenores contam no momento de interagir com o cliente. Diferencie-se ao utilizar Carimbo Auto tintado Personalizado. Medida da Impressão: 27x10mm",
+            "price": 44.99,
+            "rating": 4.5,
+            "brand": "Nykon 301",
+            "category": "Carimbo",
+            "image": [ "data:image/jpeg;base64,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"
+        
+                ]
+        },
+        {
+            "id": 2,
+            "title": "Carimbo Auto tintado Nykon 302",
+            "description": "Simplifique as suas tarefas com um Carimbo Automático. Todos os pormenores contam no momento de interagir com o cliente. Diferencie-se ao utilizar Carimbo Auto tintado Personalizado. Medida da Impressão: 38x14mm",
+            "price": 59.99,
+            "rating": 4.8,
+            "brand": "Nykon 302",
+            "category": "Carimbo",
+            "image": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZaH1Rqu9lMaUVXRulqxtt4B7kgt-io1zh8Q&s"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Carimbo Auto tintado Nykon 303",
+            "description": "Simplifique as suas tarefas com um Carimbo Automático. Todos os pormenores contam no momento de interagir com o cliente. Diferencie-se ao utilizar Carimbo Auto tintado Personalizado. Medida da Impressão: 40mm",
+            "price": 79.99,
+            "rating": 4.5,
+            "brand": "Nykon 303",
+            "category": "carimbo",
+            "image": [
+                "https://cdn.awsli.com.br/800x800/1421/1421812/produto/217152915/carimbo-automatico-nykon-303_2021-04-10_12-23-33_0_369-n6ve25kr0u.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Carimbo Auto tintado Nykon Redondo",
+            "description": "Simplifique as suas tarefas com um Carimbo Automático. Todos os pormenores contam no momento de interagir com o cliente. Diferencie-se ao utilizar Carimbo Auto tintado Personalizado. Medida da Impressão: 40mm",
+            "price": 99.99,
+            "rating": 4.8,
+            "brand": "Nykon Redondo",
+            "category": "carimbo",
+            "image": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVtnsvLcs3QTfH-k6YjDr1OIuQS7k4MyF-mw&s"
+            ]
+        }
+
+    ]
+
+}
